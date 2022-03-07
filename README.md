@@ -1,5 +1,6 @@
 # SmartCityApp
 Smart City App is a web application that is used to store details about Cluj-Napoca.
+
 A presentation explaining the entire flow of the project is now available on Canva (romanian language): https://www.canva.com/design/DAExVYANeWo/ecjFTwUnCnfuEnFiw0yd2g/view?utm_content=DAExVYANeWo&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
 ## Screenshots of the app
